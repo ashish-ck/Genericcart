@@ -12,8 +12,9 @@ import android.widget.Button;
 public class MainActivity extends Activity {
    String anshul = "anshul";
    String ankit = "an5454kit";
-   String xxcxc="4343434";
-   String hghgh="434343";
+
+   int anshul2 = 1;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
