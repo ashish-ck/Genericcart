@@ -10,7 +10,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 
 public class MainActivity extends Activity {
-
+	String newstring = "mystring";
 String gitcheck="ankit";
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
