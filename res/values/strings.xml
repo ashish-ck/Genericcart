@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Genericcart</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_shop">Shop</string>
+    <string name="button_cart">Cart</string>
+    <string name="button_namedorder">Named order</string>
+    <string name="button_search">Search</string>
+    <string name="button_previousorder">Previous orders</string>
+    <string name="button_checkout">Checkout</string>
+    <string name="button_shop_by_categories">Shop by Categories</string>
+    <string name="button_shop_by_offers">Shop by offers</string>
+    <string name="button_popular_products">Popular products</string>
+
+</resources>
